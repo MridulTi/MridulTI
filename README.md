@@ -5,7 +5,7 @@ I am 19 year old, Open Sorce Enhusiast
 Here are some ideas to get you know about me a little more:
 
 - 🔭 I’m currently working on ... JAVA
-- 🌱 I’m currently learning ...JAVA DSA
+- 🌱 I’m currently learning ...Golang
 - 👯 I’m looking to collaborate on ... Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
