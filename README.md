@@ -1,6 +1,6 @@
   ![](https://user-images.githubusercontent.com/92802892/157579254-dddded88-eaa5-4fed-b674-732c46ebe024.jpg)
 ### [BLOG](https://dev.to/mridul_it_is) || [Tweet](https://twitter.com/Mridul_It_is)
-I am 19 year old, Open Sorce Enhusiast
+I am 19 year old, Open Source Enhusiast
 
 Here are some ideas to get you know about me a little more:
 
