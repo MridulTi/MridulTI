@@ -12,3 +12,4 @@ Here are some ideas to get you know about me a little more:
 - 📫 How to reach me: ...mridultiwari2002@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...I am always eager to learn
+![snake gif](github-contribution-grid-snake.svg)
